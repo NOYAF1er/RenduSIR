@@ -37,10 +37,10 @@ Ce repertoire contient 3 projets que sont:
 ### Réponses: 
 >Redis est une base de données open source de type clefs-valeurs mono-threadée.
 >Les types de données stockés dans Redis sont entre autre:
->>-**_les listes_**: elles sont simplement des listes de string avec l’ordre d’insertion conservé. Une liste peut contenir jusqu’à plus de 4 milliards d’éléments.
->>-**_les sets_**: collections non ordonnées de String, ils permettent d’effectuer des opérations directement sur Redis ce qui permet de lancer des croisements de données particulièrement efficace.
->>-**_les hashs_**: ce sont de purs Map de String. Naturellement, c’est la structure qui semble la plus adapté pour représenter un objet comme un utilisateur d’un site web par exemple.
->>-**_les ZSet_**: Il s’agit de SET, avec la possibilité d’attacher un score à chaque valeur. Ils sont utilisés comme des index.
+* **_les listes_**: elles sont simplement des listes de string avec l’ordre d’insertion conservé. Une liste peut contenir jusqu’à plus de 4 milliards d’éléments.
+* **_les sets_**: collections non ordonnées de String, ils permettent d’effectuer des opérations directement sur Redis ce qui permet de lancer des croisements de données particulièrement efficace.
+* **_les hashs_**: ce sont de purs Map de String. Naturellement, c’est la structure qui semble la plus adapté pour représenter un objet comme un utilisateur d’un site web par exemple.
+* **_les ZSet_**: Il s’agit de SET, avec la possibilité d’attacher un score à chaque valeur. Ils sont utilisés comme des index.
 
 ### Question 3: 
 >Que peut on faire comme types de requêtes ?
