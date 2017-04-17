@@ -3,8 +3,8 @@
 
 ## Binôme
 
->Christian ADANE
->Louse MABIALA
+>Christian ADANE,
+>Louse MABIALA,
 >Yannick N'GUESSAN
 
 # Contenu
