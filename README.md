@@ -3,9 +3,9 @@
 
 ## Binôme
 
->Christian ADANE,
->Louse MABIALA,
->Yannick N'GUESSAN
+>Christian ADANE, \n
+>Louse MABIALA, \n
+>Yannick N'GUESSAN \n
 
 # Contenu
 ------------------
