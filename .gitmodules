@@ -1,0 +1,9 @@
+[submodule "pokedex"]
+	path = pokedex
+	url = https://github.com/NOYAF1er/teaching-jxs-tp5
+[submodule "TP7_Client"]
+	path = TP7_Client
+	url = https://github.com/NOYAF1er/SIT_TP7
+[submodule "TP7_Server"]
+	path = TP7_Server
+	url = https://github.com/NOYAF1er/SIR_TP4
